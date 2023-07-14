@@ -22,9 +22,15 @@ Soy Técnica Superior en electrónica y actualmente estoy enfocanda en desarroll
 ## 🛠️ Tecnologías
 
 Estas son algunas de las tecnologías en las que tengo experiencia:
-
--  Lenguajes de programación: ![Java](https://img.icons8.com/color/16/000000/java-coffee-cup-logo.png), ![HTML](https://img.icons8.com/color/16/000000/html-5.png), ![CSS](https://img.icons8.com/color/16/000000/css3.png), ![JavaScript](https://img.icons8.com/color/16/000000/javascript.png), ![PHP](https://img.icons8.com/officel/16/000000/php-logo.png)
-- Bases de datos: SQL, MongoDB
+- Lenguajes de programación:
+    - ![Java](https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png) Java
+    - ![HTML](https://img.icons8.com/color/32/000000/html-5.png) HTML
+    - ![CSS](https://img.icons8.com/color/32/000000/css3.png) CSS
+    - ![JavaScript](https://img.icons8.com/color/32/000000/javascript.png) JavaScript
+    - ![PHP](https://img.icons8.com/officel/32/000000/php-logo.png) PHP
+- Bases de datos: 
+    - ![SQL](https://img.icons8.com/dusk/32/000000/sql.png) SQL
+    - ![MongoDB](https://img.icons8.com/color/32/000000/mongodb.png) MongoDB
 - Frameworks y bibliotecas: Spring Boot, Bootstrap, React, React Native, Laravel
 - IDE's: Eclipse, IntelliJ, Visual Studio Code
   
