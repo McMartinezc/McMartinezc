@@ -10,7 +10,7 @@ Soy Técnica Superior en electrónica y actualmente estoy enfocanda en desarroll
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- Estoy ampliando mis conocimientos en el desarrollo back end con PHP y el framework Laravel.
+- Estoy ampliando mis conocimientos en el desarrollo.
 - Siempre estoy en constante aprendizaje y me mantengo al día con las últimas tendencias y tecnologías en el campo del desarrollo web.
 
 ## 💼 Proyectos
