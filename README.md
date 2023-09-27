@@ -44,10 +44,7 @@ Puedes encontrarme en las siguientes plataformas:
 
 Además de la programación, también me interesan:
 
-- La electrónica y el diseño de circuitos, electricidad.
+- La electrónica y el diseño de circuitos, electricidad ...
 - Explorar nuevas tecnologías y aprender sobre desarrollo de software.
-- Participar en proyectos colaborativos y oportunidades de crecimiento profesional.
-
-¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres saludar! Estoy siempre dispuesta a nuevas oportunidades y colaboraciones.
 
 ¡Gracias por visitar mi perfil de GitHub! 😊
