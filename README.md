@@ -36,7 +36,7 @@ Estas son algunas de las tecnologías en las que tengo experiencia:
   
 ## 📫 Cómo contactarme
 
-Puedes encontrarme en las siguientes plataformas:
+Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/mcarmen-martinez-cortes/)
 
