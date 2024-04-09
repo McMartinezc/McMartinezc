@@ -5,19 +5,18 @@ Soy Técnica Superior en electrónica y actualmente estoy enfocanda en desarroll
 ## 🔭 Experiencia
 
 - Participé en un bootcamp de desarrollo web donde adquirí conocimientos en Java back end y desarrollo web front end.
-- He trabajado en proyectos personales, incluyendo un juego de dados en Java y una página web utilizando JavaScript vanilla.
-- Actualmente, estoy desarrollando un proyecto en PHP relacionado con juegos de mesa.
+- Proyectos personales, desarrollando el Back end (Java o PHP) y el Front end (HTML, CSS, JS)
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- Estoy ampliando mis conocimientos en el desarrollo.
+- Sigo ampliando mis conocimientos en el desarrollo.
 - Siempre estoy en constante aprendizaje y me mantengo al día con las últimas tendencias y tecnologías en el campo del desarrollo web.
 
 ## 💼 Proyectos
 
 - Proyecto 1: Juego de dados en Java. Es un proyecto que desarrollé como parte de mi formación en desarrollo back end.
 - Proyecto 2: Página web con JavaScript vanilla. Una página web interactiva que construí para practicar mis habilidades front end.
-- Proyecto actual: Desarrollo de un sitio web en PHP utilizando el framework Laravel, centrado en juegos de mesa.
+- Proyecto 3: Desarrollo de un sitio web en PHP utilizando el framework Laravel, centrado en juegos de mesa.
 
 ## 🛠️ Tecnologías
 
